@@ -1,3 +1,2 @@
-info:
-  description: Spring Cloud Samples dev
-  url: http://localhost:5002 dev
+server:
+  port: 5002
