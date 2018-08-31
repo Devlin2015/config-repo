@@ -1,1 +1,2 @@
-foo.db: mycooldb
+server:
+  port: 7002
