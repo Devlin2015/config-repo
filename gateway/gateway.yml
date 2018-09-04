@@ -1,0 +1,6 @@
+zuul:
+  ignored-services: '*'
+  routes:
+    proxy:
+      path: /proxy/**
+      serviceId: proxy
